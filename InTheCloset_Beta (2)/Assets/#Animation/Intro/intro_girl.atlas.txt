@@ -1,0 +1,41 @@
+
+intro_girl.png
+size: 1249,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhand
+  rotate: true
+  xy: 1171, 75
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 701, 225
+  orig: 701, 225
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 987, 26
+  size: 201, 182
+  orig: 201, 182
+  offset: 0, 0
+  index: -1
+leg-R
+  rotate: false
+  xy: 705, 27
+  size: 229, 64
+  orig: 229, 64
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 705, 93
+  size: 280, 134
+  orig: 280, 134
+  offset: 0, 0
+  index: -1

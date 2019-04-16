@@ -1,0 +1,62 @@
+
+A01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A01_spasticity
+  rotate: false
+  xy: 2, 102
+  size: 300, 400
+  orig: 300, 400
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 582, 438
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 304, 151
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 304, 278
+  size: 212, 224
+  orig: 212, 224
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 518, 394
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 422, 172
+  size: 57, 104
+  orig: 57, 104
+  offset: 0, 0
+  index: -1
+thigh_L
+  rotate: false
+  xy: 2, 2
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+thigh_R
+  rotate: false
+  xy: 77, 11
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1

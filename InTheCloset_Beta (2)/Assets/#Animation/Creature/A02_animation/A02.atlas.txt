@@ -1,0 +1,132 @@
+
+A02.png
+size: 439,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IDLE_body
+  rotate: false
+  xy: 2, 196
+  size: 155, 184
+  orig: 155, 184
+  offset: 0, 0
+  index: -1
+IDLE_eye1
+  rotate: true
+  xy: 320, 32
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+IDLE_eye2
+  rotate: false
+  xy: 158, 13
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+IDLE_eye3
+  rotate: false
+  xy: 2, 2
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+IDLE_eye_close
+  rotate: true
+  xy: 396, 269
+  size: 111, 31
+  orig: 111, 31
+  offset: 0, 0
+  index: -1
+IDLE_eye_open
+  rotate: true
+  xy: 328, 265
+  size: 115, 66
+  orig: 115, 66
+  offset: 0, 0
+  index: -1
+IDLE_hand_L
+  rotate: false
+  xy: 392, 180
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+IDLE_hand_R
+  rotate: false
+  xy: 320, 86
+  size: 50, 124
+  orig: 50, 124
+  offset: 0, 0
+  index: -1
+IDLE_leg_L
+  rotate: false
+  xy: 159, 53
+  size: 159, 157
+  orig: 159, 157
+  offset: 0, 0
+  index: -1
+IDLE_leg_R
+  rotate: true
+  xy: 2, 33
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+WALK_ARM_L
+  rotate: false
+  xy: 372, 23
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+WALK_ARM_R
+  rotate: false
+  xy: 372, 23
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+WALK_body
+  rotate: false
+  xy: 159, 212
+  size: 167, 168
+  orig: 167, 168
+  offset: 0, 0
+  index: -1
+WALK_eye
+  rotate: true
+  xy: 328, 212
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+WALK_eye1
+  rotate: true
+  xy: 71, 8
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+WALK_eye2
+  rotate: true
+  xy: 41, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+WALK_leg_L
+  rotate: true
+  xy: 372, 65
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+WALK_leg_R
+  rotate: true
+  xy: 372, 65
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1

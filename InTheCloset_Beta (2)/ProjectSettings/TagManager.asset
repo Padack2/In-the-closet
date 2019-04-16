@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ladder
+  - floor
+  - gem
+  - lock
+  - battery
+  - blood
+  - flower
+  - fadeFloor
+  - vine
+  - moveWall
+  - mannequin
+  - cave
+  - ClearLamp
+  - cave1
+  - cave2
+  - Normal
+  - Monster
+  - A3
+  - Light
+  - DeadFloor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Monster
+  - Player
+  - Jem
+  - Cave
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 4126642045
+    locked: 0
+  - name: HelpObject
+    uniqueID: 3776845289
+    locked: 0
+  - name: Jem
+    uniqueID: 3024122877
+    locked: 0
+  - name: HurtObject
+    uniqueID: 3363456679
+    locked: 0
+  - name: Player
+    uniqueID: 3878967939
+    locked: 0
+  - name: Monster
+    uniqueID: 1834817957
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

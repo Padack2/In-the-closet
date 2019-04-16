@@ -1,0 +1,27 @@
+
+wishRoom.png
+size: 1286,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char
+  rotate: true
+  xy: 2, 2
+  size: 115, 227
+  orig: 115, 227
+  offset: 0, 0
+  index: -1
+grass_back
+  rotate: false
+  xy: 2, 119
+  size: 1282, 40
+  orig: 1282, 40
+  offset: 0, 0
+  index: -1
+grass_front
+  rotate: false
+  xy: 2, 161
+  size: 1282, 199
+  orig: 1282, 199
+  offset: 0, 0
+  index: -1

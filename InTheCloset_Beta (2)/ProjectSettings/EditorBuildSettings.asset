@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/#Scene/Intro.unity
+    guid: e99142d4b0b9ce742a6b416ede267f13
+  - enabled: 1
+    path: Assets/#Scene/Story/Prologue.unity
+    guid: c5808404ae1ef544cad9bc50396aced9
+  - enabled: 1
+    path: Assets/#Scene/Lobby.unity
+    guid: 430aa6f805273594ea89fcdf9521c9b4
+  - enabled: 1
+    path: Assets/#Scene/Chapter.unity
+    guid: c28d73d6202acbb4a83b4ec9baf82725
+  - enabled: 1
+    path: Assets/#Scene/WishRoom.unity
+    guid: 7d5f147d2983ef2458016358c6e8a8a5
+  - enabled: 1
+    path: Assets/#Scene/InGame/Stage0.unity
+    guid: 3dafc072fb16c424498350863881dfbf
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-1.unity
+    guid: 215353cab480ed94e8d7de4f5d08c6ad
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-2.unity
+    guid: 30d0ed4f63c7e8840a25dfed04c1904e
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-3.unity
+    guid: 5d34a6e951ba03d4b865dd7f07081317
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-4.unity
+    guid: 7ca6249405e8f064686f3df72f770ee3
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-5.unity
+    guid: 8b524bcdbe88b734bb94f630b36b4d80
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-6.unity
+    guid: dc483bc3d453b89419ff0a310fd5fd32
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-7.unity
+    guid: 507e3e9e62a38c3478660cd6fa89cb56
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-8.unity
+    guid: d4154c8fab88156469228532384cdcba
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-9.unity
+    guid: c0390c0ebaf2b1540a62de57d56c98a1
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-10.unity
+    guid: 94510cdb0c1e88245808ca9513490e01
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-11.unity
+    guid: 183a8cf185fa25749853f849c96c0ae2
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-12.unity
+    guid: 0a3f78ca2be0d2f4fa72bb574de0c637
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-13.unity
+    guid: 1ad506f7d45f9a947a623fa8f82787af
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-14.unity
+    guid: 02f6d8df8a1bd91438523840c24f2d63
+  - enabled: 1
+    path: Assets/#Scene/InGame/Chapter1/Stage1-15.unity
+    guid: 282ed58fcbf05b145a7d848f9dea6135
+  - enabled: 1
+    path: Assets/#Scene/InGame/GameResult.unity
+    guid: 3413c046b1063e443ba582127e3c7c68
+  - enabled: 1
+    path: Assets/#Scene/Story/Story1.unity
+    guid: 482702e6d50b7ca41af5017679a7583f
+  - enabled: 1
+    path: Assets/#Scene/Story/Story2.unity
+    guid: e60e481d7ab46ac4ca0d856e0a1c617f
+  - enabled: 1
+    path: Assets/#Scene/Story/Story3-1.unity
+    guid: 37a50eee2073515449ff5143e9a223bb
+  - enabled: 1
+    path: Assets/#Scene/Story/Story3-2.unity
+    guid: e5ce64f515a2b0c418a832253d894fc2
+  - enabled: 1
+    path: Assets/#Scene/Story/Story4-1.unity
+    guid: d8f7943397a6800418cbf3ad0a293955
+  - enabled: 1
+    path: Assets/#Scene/Story/Story4-2.unity
+    guid: 0d860f3b3787391468a7e3e21945a80a
+  - enabled: 1
+    path: Assets/#Scene/Story/Story5.unity
+    guid: 1d657973e8bbe7c4da1f3d4b883aaa6e

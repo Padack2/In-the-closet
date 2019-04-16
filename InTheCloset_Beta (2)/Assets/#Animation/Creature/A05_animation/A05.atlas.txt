@@ -1,0 +1,13 @@
+
+A05.png
+size: 257,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 253, 676
+  orig: 253, 676
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+A03.png
+size: 660,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backLeg_L
+  rotate: true
+  xy: 536, 382
+  size: 98, 119
+  orig: 98, 119
+  offset: 0, 0
+  index: -1
+backLeg_R
+  rotate: true
+  xy: 590, 40
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 478, 532
+  orig: 478, 532
+  offset: 0, 0
+  index: -1
+feeler_L
+  rotate: false
+  xy: 536, 288
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+feeler_R
+  rotate: true
+  xy: 536, 3
+  size: 112, 52
+  orig: 112, 52
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 536, 117
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 536, 201
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
